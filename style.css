@@ -1,0 +1,56 @@
+.title {
+    text-align: center;
+}
+
+h1 {
+    color: rgba(255, 255, 255, 0.952);
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+
+#main-bio {
+    width: 70%;
+    float: left;
+}
+
+
+
+body {
+    background-color: rgb(212, 205, 205);
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+}
+
+#info {
+    width: 30%;
+    float: left;
+    
+
+    
+    
+}
+ #bio-image {
+     width: 200px;
+     height: 200px;
+     margin-right: 20px;
+     float: left;
+ }
+
+ a {
+     color: red;
+ }
+
+ .container {
+     width: 1024px;
+     margin: 0 auto;
+ }
